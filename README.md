@@ -1,4 +1,4 @@
-## Mega Boilerplate App (Node.js)
+## Bluejay-Api App (Node.js)
 
 ### Configuration
 - **Platform:** node
